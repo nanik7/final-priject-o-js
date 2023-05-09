@@ -39,18 +39,18 @@ body {
   margin-top: 31px;
 }
 
-.title {
+.titleOfH1 {
   font-weight: 700;
   font-size: 26px;
   line-height: 38.51px;
   color: #222731;
 }
 
-.title.dark {
+.titleOfH1.dark {
   color: var(--white);
 }
 
-.theme-text {
+.text-of-theme-text {
   font-weight: 700;
   font-size: 13px;
   line-height: 19.25px;
@@ -59,7 +59,7 @@ body {
   color: var(--darkSky);
 }
 
-.theme-text.dark {
+.text-of-theme-text.dark {
   color: var(--white);
 }
 
